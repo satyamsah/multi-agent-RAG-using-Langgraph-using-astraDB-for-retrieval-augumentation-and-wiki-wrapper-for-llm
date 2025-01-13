@@ -1,4 +1,4 @@
-# **AI Workflow with LangChain and LangGraph**
+# ** Muti-agent AI Workflow with LangChain and LangGraph**
 
 ## **Overview**
 This project demonstrates an **AI-driven question-answering system** using **LangChain** and **LangGraph**. It dynamically routes user queries to appropriate knowledge sources—such as **Wikipedia** or a **vector database (Astra DB)**—based on the query's context. The workflow leverages the strengths of **retrieval-augmented generation (RAG)**, **LLM-based decision-making**, and graph-based workflow orchestration to provide intelligent and modular responses.
