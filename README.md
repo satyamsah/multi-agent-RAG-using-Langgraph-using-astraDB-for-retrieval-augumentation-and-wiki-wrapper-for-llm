@@ -1,7 +1,12 @@
+
 # ** Muti-agent chatbot AI Workflow with LangChain and LangGraph**
 
 ## **Overview**
 This project demonstrates an **AI-driven question-answering system** using **LangChain** and **LangGraph**. It dynamically routes user queries to appropriate knowledge sources—such as **Wikipedia** or a **vector database (Astra DB)**—based on the query's context. The workflow leverages the strengths of **retrieval-augmented generation (RAG)**, **LLM-based decision-making**, and graph-based workflow orchestration to provide intelligent and modular responses.
+
+
+<img width="995" alt="Screenshot 2025-01-13 at 7 15 22 PM" src="https://github.com/user-attachments/assets/1056e76e-aa9f-473d-9d41-61e3919b9f11" />
+
 
 ---
 
