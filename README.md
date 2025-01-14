@@ -1,5 +1,5 @@
 
-# ** Muti-agent chatbot AI Workflow with LangChain and LangGraph**
+# ** Muti-agent AI chatbot with LangChain and LangGraph**
 
 ## **Overview**
 Exploring multi-agent systems with LangGraph, LangChain, and a vector database. The goal is to create a retrieval-augmented generation (RAG) pipeline that leverages Llama as the large language model (LLM) agent to intelligently answer user queries. The system dynamically routes queries to either a local corpus (powered by AstraDB as the vector database) or a Wikipedia agent for external knowledge retrieval, all orchestrated through a simple LangGraph setup.
